@@ -83,7 +83,7 @@ function initial() {
 
                     break;
                 case 'intern':
-                    return 'you chose intern';
+                    internFunc();
 
                     break;
             
